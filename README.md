@@ -86,43 +86,7 @@ Not all will be infected, and the infected will be cured!
   - How you implement these SVGs is up to you.
   - Change the color of the healthy roof to your favorite color or blue
 
-- Enjoy the task and be creative!
 
-Feel free to ask questions over email
-
-### Upon completion
-Option 1:
-- Zip your directory and email frontend@secberus.com with the .zip file and answer inside
-  - Format your subject as follows
-    - `%Your name here% - Completed interview homework (Zip)`
-
-Option 2 (with a private fork):
-- Invite @colemars and @sigkar to your private repository once you have completed the task
-  - Email frontend@secberus.com and format your subject as follows
-    - `%Your name here% - Completed interview homework (Invitation)`
-
-## Included items
-You have been provided with the following
-- Basic project structure
-- Boilerplate Immer-based Redux store, and a basic reducer/action.
-  - Includes Redux-Thunk and Redux-Logger middlewares
-- Styled components global styling and theme provider
-- Four SVG files located in the /public folder. Make sure you use these to portay homes in the view. 
-  - HealthyHome.svg (Red roof)
-  - ZombieHome.svg (Green roof)
-  - EmptyHome.svg (Gray roof)
-  - InfectedHome.svg (Light Green Roof)
-- Three static inputs `/src/constants/matrices`
-
-## Optional Items (These aren't required)
-- Add dependencies, but dependencies already listed are required.
-- Add, remove, or change documentation at will.
-- Write tests of your choice (Integration, Unit, TDD)
-- Write an input generator / algorithm
-- Add a graphing option - we use ChartJS at SECBERUS, but feel free to use any charts you wish
-- Feel free to implement TypeScript into the build process. We love any JS!
-- Flex your redux knowledge by updating the store using the latest best practices
-- Add any lint you wish (Prettier, es/tslint)
 
 # Create React App Info:
 
